@@ -57,4 +57,4 @@ Through this project, I learned:
 
 **Ayisha Yashira M**
 
-Python Programming Intern @ CodSoft  
+Python Programming
